@@ -1,0 +1,56 @@
+[1;31m
+Start test 1[0m
+Enter your name: > Bob
+Hello, Bob
+> rock
+The computer chose rock
+There is a draw (rock)
+Your rating: 400
+> paper
+The computer chose paper
+There is a draw (paper)
+Your rating: 400
+> scissors
+The computer chose scissors
+There is a draw (scissors)
+Your rating: 400
+> paper
+The computer chose rock
+/Well done. The computer chose rock and failed
+Your rating: 450
+> scissors
+The computer chose paper
+0Well done. The computer chose paper and failed
+Your rating: 450
+> rock
+The computer chose rock
+There is a draw (rock)
+Your rating: 400
+> paper
+The computer chose scissors
+(Sorry, but the computer chose scissors
+Your rating: 350
+> scissors
+The computer chose rock
+$Sorry, but the computer chose rock
+Your rating: 350
+> !exit
+Bye!
+[1;31m
+Start test 2[0m
+Enter your name: > Bob
+Hello, Bob
+> scissors
+The computer chose paper
+0Well done. The computer chose paper and failed
+Your rating: 450
+> scissors
+The computer chose paper
+0Well done. The computer chose paper and failed
+Your rating: 450
+> scissors
+The computer chose rock
+$Sorry, but the computer chose rock
+Your rating: 350
+> !exit
+Bye!
